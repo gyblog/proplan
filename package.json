@@ -28,6 +28,7 @@
     "fs-jetpack": "^0.7.1",
     "gulp": "^3.9.1",
     "gulp-cssmin": "^0.1.7",
+    "gulp-nodemon": "^2.0.6",
     "gulp-uglify": "^1.5.2",
     "gulp-usemin": "^0.3.21"
   },
